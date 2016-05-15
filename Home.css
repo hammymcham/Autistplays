@@ -1,0 +1,49 @@
+body {
+    margin:0;
+
+}
+.bod{
+width:100%;
+margin:0 auto;
+background-image:url(carrot1.jpg);
+font-family:"Comic Sans MS";
+}
+
+.vid{
+margin:0 auto;
+width:100%;
+
+}
+
+.mainvid{
+	margin:0 auto;
+width:100%;
+font-family:"Comic Sans MS";
+color:white;
+
+}
+
+.undervid{
+margin:0 auto;
+background-color:grey;
+text-align:center;
+margin:0 auto;
+color:white;
+
+}
+.ex{
+width:auto;
+background-color:darkgrey;
+margin:0 auto;
+justify-content:center;
+text-align:center;	
+color:black;
+}
+
+.foot{
+background-color:#464e5b;	
+margin:0 auto;
+text-align:center;
+color:white;
+}
+
